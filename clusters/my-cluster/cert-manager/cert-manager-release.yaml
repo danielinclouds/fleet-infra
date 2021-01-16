@@ -22,5 +22,5 @@ spec:
   test:
     enable: false
   values:
-    installCRDs: false
+    installCRDs: true
     
